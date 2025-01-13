@@ -1,1 +1,1 @@
-This is a sample text file and the text is ok
+this is only for git
